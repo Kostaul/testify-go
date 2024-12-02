@@ -1,4 +1,4 @@
-module testing
+module mainn
 
 go 1.23.1
 
